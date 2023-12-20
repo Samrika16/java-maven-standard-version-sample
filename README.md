@@ -1,6 +1,7 @@
 ### Java Maven Standard Version Sample
 ## Hello doc
 ### hello Doc2
+### hello Doc3
 
 This simple module demos how to use Conventional Commits, Git Hooks to enforce Conventional Commits and Semantic Versioning in a Java project built with Maven.
 
